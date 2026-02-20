@@ -1,13 +1,5 @@
 <h1 align="left">Hii👋 I'm Vinit</h1>
 
-###
-
-<div align="left">
-  <img height="180" src="https://i.pinimg.com/736x/66/07/76/6607765f2b82fda3dae18520c42ccdf2.jpg"  />
-</div>
-
-###
-
 <p align="left">I am a Full Stack Developer and interested in Data Engineering also..</p>
 
 ###
@@ -123,6 +115,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+###
+
+<div align="left">
+  <img height="180" src="https://i.pinimg.com/736x/66/07/76/6607765f2b82fda3dae18520c42ccdf2.jpg"  />
+</div>
+
+###
 
 ###
 
