@@ -116,7 +116,7 @@
   </a>
 </div>
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=VinitDarade12&theme=tokyonight&hide_border=true)
 
 ###
