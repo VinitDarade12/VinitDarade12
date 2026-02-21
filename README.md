@@ -117,14 +117,13 @@
 </div>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinitDarade12&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VinitDarade12&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=VinitDarade12&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=VinitDarade12&theme=tokyonight&hide_border=true)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitDarade12&layout=compact&theme=radical)
-###
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VinitDarade12&layout=compact&theme=tokyonight&hide_border=true)
 <div align="left">
   <img height="180" src="https://i.pinimg.com/736x/66/07/76/6607765f2b82fda3dae18520c42ccdf2.jpg"  />
 </div>
