@@ -116,6 +116,9 @@
   </a>
 </div>
 
+### Stats and dev activities
+[![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitDarade12)](https://github.com/VinitDarade12/github-readme-stats)
+
 ###
 <div align="left">
   <img height="180" src="https://i.pinimg.com/736x/66/07/76/6607765f2b82fda3dae18520c42ccdf2.jpg"  />
