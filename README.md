@@ -1,4 +1,4 @@
-<h1 align="left">Hii👋 I'm Vinit</h1>
+<h1 align="left">Hii👋 I'm Vinit Darade</h1>
 
 <p align="left">I am a Full Stack Developer and interested in Data Engineering also..</p>
 
